@@ -5,31 +5,38 @@ repo: eort # The name of this repository
 sites:
   - name: ORT.edu.ar
     url: https://www.ort.edu.ar
+    icon: https://www.ort.edu.ar/favicon.ico
   - name: Campus Virtual
     url: https://campus.ort.edu.ar
     __dangerous__disable_verify_peer: true
+  - name: Aula Virtual
+    url: https://aulavirtual.instituto.ort.edu.ar
   - name: Z online
     url: $URL_ZOL
+    icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZBAMAAAA2x5hQAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAB5QTFRFAAAAnZ2dhYWFtbW1z8/Ptra2z8/Pjo6OkpKSwcHBhxDIbwAAAAp0Uk5TAP39/v07JoAepFpdTKYAAADLSURBVHicTdAxa8MwEAVgUUjrjCc1OOu9DM0qLi10bURmB0PoWAgNZPTQPd4yZuzP7Z0cq9akDz3BvXOuAodNkui5ds49ARQkpSSvWTxAGlXPJJuUtvL+pdpTyKCdwrV2I4nhZjqdvj+vXaRnC+ZTBfJvI1xPnm9FHWHVjJhFYFGezh74LWoBvox4/ADq8jT34HXREeynQZoGif6Dew7x52DT2oyRxAoKvVj33E/hTf2wh0jQz1U37IGApQbve9BRtdODbXMbdZzQuD+fQyhF+HljMQAAAABJRU5ErkJggg==
     __dangerous__disable_verify_peer: true
   - name: Bibliotecas
     url: $URL_BIBLIOTECAS
+    icon: https://cdn.icon-icons.com/icons2/2875/PNG/64/notebook_icon_182168.png
     __dangerous__disable_verify_peer: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /eort
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
+  baseUrl: /eort
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: EstadoORT
-  introTitle: "¿Es un problema mio?"
-  introMessage: Esta página web contiene información actualizada sobre el servicio de las páginas de ORT y un historial de caidas para que puedas enterarte si el problema es tuyo o pasó algo más. Soy un estudiante y mi nombre se encuentra en el GitHub vinculado arriba, responderé cualquier duda o solicitudes para terminar esta página web. Vale decir que esta página web **no está afiliada de ninguna forma con la Asociacion ORT Argentina y/o afiliados**.
+  introTitle: "¿Se cayó o soy yo?"
+  introMessage: "Este sitio contiene información actualizada sobre el servicio de las páginas de ORT. Soy un estudiante y responderé cualquier duda o solicitudes para terminar esta página web.<br>**EstadoORT no tiene relación con la Asociacion ORT Argentina y/o afiliados**."
   navbar:
     - title: Ahora
-      href: /
+      href: /eort
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  readmeContent: ":pencil: Actualizar resumen en README [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Actualizar resumen de estado [skip ci] [upptime]"
+  graphsUpdate: ":bento: Actualizar gráficos [skip ci] [upptime]"
