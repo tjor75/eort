@@ -7,10 +7,13 @@ sites:
     url: https://www.ort.edu.ar
   - name: Campus Virtual
     url: https://campus.ort.edu.ar
+    __dangerous__disable_verify_peer: true
   - name: Z online
     url: $URL_ZOL
+    __dangerous__disable_verify_peer: true
   - name: Bibliotecas
     url: $URL_BIBLIOTECAS
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
