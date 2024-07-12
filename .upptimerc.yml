@@ -69,7 +69,7 @@ i18n:
   errorText: Intenta más tarde.
   errorHome: Ir a la home
   pastScheduledMaintenance: Corte programado anterior
-  scheduledMaintenance: Corte programado
+  scheduledMaintenance: Cortes programados
   scheduledMaintenanceSummaryStarted: Empezó el $DATE y dura $DURATION minutos
   scheduledMaintenanceSummaryStarts: Empieza el $DATE y dura $DURATION minutos
   startedAt: Empezó a las
