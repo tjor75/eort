@@ -4,25 +4,27 @@
     "url": "https://www.ort.edu.ar",
     "icon": "https://www.ort.edu.ar/favicon.ico",
     "slug": "ort-edu-ar",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3911,
     "timeDay": 3753,
     "timeWeek": 3911,
     "timeMonth": 3911,
     "timeYear": 3911,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-12": 0
+    }
   },
   {
     "name": "Campus Virtual",
     "url": "https://campus.ort.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/campus.ort.edu.ar.ico",
     "slug": "campus-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,18 +60,20 @@
     "url": "$URL_ZOL",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZBAMAAAA2x5hQAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAB5QTFRFAAAAnZ2dhYWFtbW1z8/Ptra2z8/Pjo6OkpKSwcHBhxDIbwAAAAp0Uk5TAP39/v07JoAepFpdTKYAAADLSURBVHicTdAxa8MwEAVgUUjrjCc1OOu9DM0qLi10bURmB0PoWAgNZPTQPd4yZuzP7Z0cq9akDz3BvXOuAodNkui5ds49ARQkpSSvWTxAGlXPJJuUtvL+pdpTyKCdwrV2I4nhZjqdvj+vXaRnC+ZTBfJvI1xPnm9FHWHVjJhFYFGezh74LWoBvox4/ADq8jT34HXREeynQZoGif6Dew7x52DT2oyRxAoKvVj33E/hTf2wh0jQz1U37IGApQbve9BRtdODbXMbdZzQuD+fQyhF+HljMQAAAABJRU5ErkJggg==",
     "slug": "z-online",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 596,
     "timeDay": 563,
     "timeWeek": 596,
     "timeMonth": 596,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-12": 1
+    }
   },
   {
     "name": "Bibliotecas",
@@ -77,18 +81,18 @@
     "icon": "https://cdn.icon-icons.com/icons2/2875/PNG/64/notebook_icon_182168.png",
     "slug": "bibliotecas",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.70%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 756,
     "timeDay": 730,
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2024-07-12": 6
+      "2024-07-12": 13
     }
   }
 ]
