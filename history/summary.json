@@ -76,7 +76,7 @@
     "url": "$URL_BIBLIOTECAS",
     "icon": "https://cdn.icon-icons.com/icons2/2875/PNG/64/notebook_icon_182168.png",
     "slug": "bibliotecas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-12": 0
+    }
   }
 ]
