@@ -36,6 +36,51 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todo está funcionando
+  incidentReport: "Incident #$NUMBER report →"
+  activeIncidentSummary: Detectado el $DATE con $POSTS posts
+  incidentTitle: Detalles del incidente N°$NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Arreglado
+  incidentOngoing: Sucediendo
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: View and Subscribe on GitHub
+  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentBack: ← Back to all incidents
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
+  liveStatus: Estado actual
+  overallUptime: "Uptime general: $UPTIME"
+  overallUptimeTitle: Uptime general
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Tiempo de respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Arriba
+  down: Caido
+  degraded: Degradado
+  loading: Cargando
+  footer: Está página es [open source]($REPO), impulsada por [Upptime](https://upptime.js.org)
+  errorTitle: Ocurrió un error
+  errorIntro: Ocurrió un error al intentar obtener los detalles de estado más recientes.
+  errorText: Intenta más tarde.
+  errorHome: Ir a la home
+  pastScheduledMaintenance: Corte programado anterior
+  scheduledMaintenance: Corte programado
+  scheduledMaintenanceSummaryStarted: Empezó el $DATE y dura $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Empieza el $DATE y dura $DURATION minutos
+  startedAt: Empezó a las
+  startsAt: Empieza a las
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  durationAll: total
+  locale: es-AR
+
 commitMessages:
   readmeContent: ":pencil: Actualizar resumen en README [skip ci] [upptime]"
   summaryJson: ":card_file_box: Actualizar resumen de estado [skip ci] [upptime]"
