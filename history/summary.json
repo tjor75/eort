@@ -24,10 +24,10 @@
     "url": "https://campus.ort.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/campus.ort.edu.ar.ico",
     "slug": "campus-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1000,
@@ -36,6 +36,7 @@
     "timeMonth": 1042,
     "timeYear": 1000,
     "dailyMinutesDown": {
+      "2024-09-01": 1,
       "2024-07-25": 111
     }
   },
@@ -62,7 +63,7 @@
     "url": "$URL_ZOL",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZBAMAAAA2x5hQAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAB5QTFRFAAAAnZ2dhYWFtbW1z8/Ptra2z8/Pjo6OkpKSwcHBhxDIbwAAAAp0Uk5TAP39/v07JoAepFpdTKYAAADLSURBVHicTdAxa8MwEAVgUUjrjCc1OOu9DM0qLi10bURmB0PoWAgNZPTQPd4yZuzP7Z0cq9akDz3BvXOuAodNkui5ds49ARQkpSSvWTxAGlXPJJuUtvL+pdpTyKCdwrV2I4nhZjqdvj+vXaRnC+ZTBfJvI1xPnm9FHWHVjJhFYFGezh74LWoBvox4/ADq8jT34HXREeynQZoGif6Dew7x52DT2oyRxAoKvVj33E/hTf2wh0jQz1U37IGApQbve9BRtdODbXMbdZzQuD+fQyhF+HljMQAAAABJRU5ErkJggg==",
     "slug": "z-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -74,6 +75,7 @@
     "timeMonth": 617,
     "timeYear": 611,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2024-07-25": 111,
       "2024-07-12": 66
     }
