@@ -48,7 +48,7 @@ i18n:
   incidentOngoing: Sucediendo
   incidentOpenedAt: Abierto el
   incidentClosedAt: Cerrado el
-  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentViewOnGitHub: [Seguir/comentar en GitHub]
   incidentCommentSummary: Posteado el $DATE por $AUTHOR
   incidentBack: ← Volver a la home
   pastIncidents: Incidentes pasados
