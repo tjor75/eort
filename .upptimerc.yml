@@ -27,7 +27,7 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   baseUrl: /eort
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  css: ":root{--body-background-color:#000a1e;--card-background-color:#001338;--nav-background-color:#001338;--nav-border-bottom-color:#002976;--card-border-color:#002976;--tag-color:#001338;}body{color:#fff;}"
+  css: ":root{--body-background-color:#000a1e;--card-background-color:#001338;--nav-background-color:#001338;--nav-border-bottom-color:#002976;--card-border-color:#002976;--tag-color:#001338;}body{color:#fff;}form ~ *{display:none;}"
   name: EstadoORT
   introTitle: "¿Se cayó o soy yo?"
   introMessage: "Este sitio contiene información actualizada sobre el servicio de las páginas de ORT. Soy un estudiante y responderé cualquier duda o solicitudes para terminar esta página web.<br>**EstadoORT no tiene relación con la Asociacion ORT Argentina y/o afiliados**."
