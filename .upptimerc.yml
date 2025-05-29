@@ -7,10 +7,10 @@ sites:
     url: https://www.ort.edu.ar
     icon: https://www.ort.edu.ar/favicon.ico
   - name: Campus Virtual
-    url: https://campus.ort.edu.ar
+    url: https://campus.ort.edu.ar/
     __dangerous__disable_verify_peer: true
   - name: Aula Virtual
-    url: https://aulavirtual.instituto.ort.edu.ar
+    url: https://aulavirtual.instituto.ort.edu.ar/
   - name: Z online
     url: $URL_ZOL
     icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZBAMAAAA2x5hQAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAB5QTFRFAAAAnZ2dhYWFtbW1z8/Ptra2z8/Pjo6OkpKSwcHBhxDIbwAAAAp0Uk5TAP39/v07JoAepFpdTKYAAADLSURBVHicTdAxa8MwEAVgUUjrjCc1OOu9DM0qLi10bURmB0PoWAgNZPTQPd4yZuzP7Z0cq9akDz3BvXOuAodNkui5ds49ARQkpSSvWTxAGlXPJJuUtvL+pdpTyKCdwrV2I4nhZjqdvj+vXaRnC+ZTBfJvI1xPnm9FHWHVjJhFYFGezh74LWoBvox4/ADq8jT34HXREeynQZoGif6Dew7x52DT2oyRxAoKvVj33E/hTf2wh0jQz1U37IGApQbve9BRtdODbXMbdZzQuD+fQyhF+HljMQAAAABJRU5ErkJggg==
@@ -19,6 +19,8 @@ sites:
     url: $URL_BIBLIOTECAS
     icon: https://cdn.icon-icons.com/icons2/2875/PNG/64/notebook_icon_182168.png
     __dangerous__disable_verify_peer: true
+  - name: Extranet
+    url: https://extranet.ort.edu.ar/
 
 status-website:
   metaTags:
