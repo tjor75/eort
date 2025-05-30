@@ -21,6 +21,7 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: Extranet
     url: https://extranet.ort.edu.ar/
+    __dangerous__disable_verify_peer: true
 
 status-website:
   metaTags:
