@@ -163,18 +163,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.ort.edu.ar.ico",
     "slug": "extranet",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-29": 101
+      "2025-05-30": 66,
+      "2025-05-29": 128
     }
   }
 ]
